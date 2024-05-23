@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I suck at Programming
   
--Coding started 1.1.2023
+-Coding started 3.4.2023
 
 <!---
 TristanSquared/TristanSquared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
