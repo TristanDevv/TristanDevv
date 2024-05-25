@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @TristanSquared
-- 👀 I’m interested in [HTML5, CSS3, JavaScript, Python, Batch]
-- 🌱 I’m currently learning [HTML5, CSS3, JavaScript, Python, Batch]
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me simontristan9999@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I suck at Programming
+<h2>Hi, I’m Tristan | S.</h2>
+<p>I am 16 Years old</p>
   
 -Coding started 3.7.2023
 
