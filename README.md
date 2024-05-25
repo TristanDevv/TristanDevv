@@ -9,6 +9,8 @@
 -Coding started 3.4.2023
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TristanSquared)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TristanSquared&show_icons=true&theme=radical)
 <!---
 TristanSquared/TristanSquared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
