@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Hi, I’m Tristan | S.</h2><br><p>I am 16 Years old</p><br>  <br><br>-Coding started 3.7.2023<br><br><br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TristanSquared&show_icons=true&theme=dark)<br><br>
+<h2>Hi, I’m Tristan | S.</h2><br><p>I am 16 Years old</p><br>  <br><br>-Coding started 3.7.2023
 
 
 ## 🌐 Socials:
