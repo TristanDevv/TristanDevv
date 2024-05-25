@@ -6,9 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I suck at Programming
   
--Coding started 3.4.2023
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TristanSquared)](https://github.com/anuraghazra/github-readme-stats)
+-Coding started 3.7.2023
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TristanSquared&show_icons=true&theme=radical)
 <!---
