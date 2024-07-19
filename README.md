@@ -39,7 +39,7 @@
 
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TristanSimonDev&theme=dark)](https://git.io/streak-stats)
 
 
 
