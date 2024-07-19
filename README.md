@@ -4,18 +4,18 @@
   Languages
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,javascript,typescript,batchfigma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,javascript,typescript,batch&theme=dark)](https://skillicons.dev)
 
 <h1>
   Tools
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,git,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,git,&theme=dark)](https://skillicons.dev)
 
 <h1>
   Bots
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=discord,bots,discordjs,,batchfigma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,discordjs,&theme=dark)](https://skillicons.dev)
 
 
