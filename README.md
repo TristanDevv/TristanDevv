@@ -4,7 +4,7 @@
   Languages
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,javascript,typescript,batch&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,javascript,typescript&theme=dark)](https://skillicons.dev)
 
 <h1>
   Tools
