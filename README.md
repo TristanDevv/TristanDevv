@@ -10,4 +10,12 @@
   Tools
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,batchfigma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,gitfigma&theme=dark)](https://skillicons.dev)
+
+<h1>
+  Bots
+</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,discordjs,,batchfigma&theme=dark)](https://skillicons.dev)
+
+
