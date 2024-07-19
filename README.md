@@ -1,4 +1,1 @@
-<h1>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+i+am+Tristan;Second+line+of+text)](https://git.io/typing-svg)
-</h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=2000&pause=2000&color=15F7EA&background=151515&center=true&vCenter=true&random=true&width=435&lines=Hi+im+Tristan" alt="Typing SVG" /></a>
