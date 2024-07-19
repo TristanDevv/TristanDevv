@@ -10,7 +10,7 @@
   Tools
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,gitfigma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,git,figma&theme=dark)](https://skillicons.dev)
 
 <h1>
   Bots
