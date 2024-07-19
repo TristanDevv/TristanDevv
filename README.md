@@ -10,19 +10,23 @@
   Tools
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,git,github,gitlab&theme=dark)](https://skillicons.dev)
 
 <h1>
   Bots
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=discord,bots,discordjs,gitlab&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,discordjs,&theme=dark)](https://skillicons.dev)
 
 
 <h1>
   Socials and email
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=gmail,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gmail,instagram&theme=dark)](https://skillicons.dev)
 
+<h1>
+  operating systems
+</h1>
 
+[![My Skills](https://skillicons.dev/icons?i=linux,windows&theme=dark)](https://skillicons.dev)
