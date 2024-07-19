@@ -30,3 +30,16 @@
 </h1>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu&theme=dark)](https://skillicons.dev)
+
+<h1>
+  IDE
+</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode&theme=dark)](https://skillicons.dev)
+
+
+
+
+
+
+
