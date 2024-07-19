@@ -4,4 +4,10 @@
   Languages
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,javascript,nodejs,typescript,batchfigma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,javascript,typescript,batchfigma&theme=dark)](https://skillicons.dev)
+
+<h1>
+  Tools
+</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,batchfigma&theme=dark)](https://skillicons.dev)
