@@ -1,7 +1,6 @@
 <div align="center">
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TristanSimonDev&theme=violet-dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TristanSimonDev&show_icons=true&theme=radical#gh-dark-mode-only)
 
 <h1>
   Languages
