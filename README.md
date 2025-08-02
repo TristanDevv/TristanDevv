@@ -1,1 +1,3 @@
-[(https://lanyard-profile-readme.vercel.app/api/848247310520680489)]
+<p align="center">
+  <img src="https://dsc-readme.tsuni.dev/api/user/214167454291722241?width=400">
+</p>
