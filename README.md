@@ -16,7 +16,6 @@ I have a strong passion for **programming, problem-solving, and system design**.
 ## 📌 Current Projects
 - 🌍 **Global Discord Bot** with leveling, XP system & probability features  
 - 🎲 **Rarity system with binomial distribution** for Roblox Studio  
-- 🕹️ **AI for 8-ball pool** & other experimental games  
 - ⚙️ **Datastore management** for large-scale player systems  
 
 ## 🎯 Goals
