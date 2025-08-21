@@ -6,13 +6,16 @@ I have a strong passion for **programming, problem-solving, and system design**.
 
 ## 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-
 ## 📌 Current Projects
 - 🌍 **Global Discord Bot** with leveling, XP system & probability features  
 - 🎲 **Rarity system with binomial distribution** for Roblox Studio  
