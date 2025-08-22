@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tristan S.
+# Hi there 👋, I'm Tristan 
 
 ## 👨‍💻 About Me
 I'm a **software developer in training** (1st year of my apprenticeship) from Germany 🇩🇪.  
